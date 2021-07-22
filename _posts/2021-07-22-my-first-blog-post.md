@@ -1,3 +1,8 @@
+---
+title: "Beginning of Journey"
+date: 2021-07-22
+---
+
 # Lets See What Can We Do
 ## With Quotes
 
@@ -11,7 +16,3 @@ or:
 ```
 `What doesn’t kill you, simply makes you stranger!`
 ```
----
-title: "Beginning of Journey"
-date: 2021-07-22
----
